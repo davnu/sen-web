@@ -1,0 +1,45 @@
+{
+    "header": {
+        "menu0": "Inicio",
+        "menu1": "Características",
+        "menu2": "¿Cómo Funciona?",
+        "menu3": "Contato"
+    },
+    "promo": {
+        "title": "Sensors Multitool: a melhor ferramenta para sensores do seu Smartphone Android.",
+        "line1": "Informações sobre todos os sensores suportados pelo telefone",
+        "line2": "Suporte para mostrar informações de redes Wi-Fi e GPS",
+        "line3": "Todos os dados acompanhados de gráficos em tempo real",
+        "line4": "Ele se reúne em uma única aplicação: altímetro, detector de metais, barômetro, bússola, termômetro..."
+    },
+    "settings": {
+        "title1": "Sensores",
+        "desc1": "O suporte para todos os sensores Android: giroscópio, bússola, barômetro, sensor de luz...",
+        "title2": "Características de cada Sensor",
+        "desc2": "Características de cada um dos sensores em seu smartphone.",
+        "title3": "Tempo Real",
+        "desc3": "Informação em tempo real dos dados obtidos por sensores.",
+        "title4": "Red WIFI",
+        "desc4": "Todos os dados da rede qual você está conectado, intensidade e informações sobre o seu Smartphone na rede.",
+        "title5": "GPS",
+        "desc5": "Você pode ver a sua posição geográfica, a altitude em que você é, e o estado dos satélites.",
+        "title6": "Material Design",
+        "desc6": "Interface limpa seguindo as diretrizes do Material Design",
+        "title7": "Gráficas Intuitivas",
+        "desc7": "Gráficos completos que permitem visualizar os dados coletados pelos sensores..."
+    },
+    "how": {
+        "title": "Cómo funciona",
+        "desc": "Video explicativo del funcionamiento de Sensors Multitool.",
+        "qr": "Escanéa el código QR",
+        "download": "Descargar para Android"
+    },
+    "contact": {
+        "title": "Contato",
+        "desc": "Contacte-nos para qualquer relatório ou sugestão.",
+        "email": "wered.software [arroba] gmail.com"
+    },
+    "help": {
+        "desc": "Ajude-nos a continuar a desenvolver e melhorar aplicações gratuitas."
+    }
+}

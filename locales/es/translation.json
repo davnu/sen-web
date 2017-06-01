@@ -1,0 +1,45 @@
+{
+    "header": {
+        "menu0": "Inicio",
+        "menu1": "Características",
+        "menu2": "¿Cómo Funciona?",
+        "menu3": "Contacto"
+    },
+    "promo": {
+        "title": "Sensors Multitool: la herramienta definitiva para los sensores de tu smartphone Android.",
+        "line1": "Información de todos los sensores que posee tu smartphone",
+        "line2": "Soporte para mostrar información de redes WIFI o GPS",
+        "line3": "Todos los datos acompañados de gráficas en tiempo real",
+        "line4": "Reune en una única aplicación: altímetro, detector de metales, barómetro, brújula, termómetro..."
+    },
+    "settings": {
+        "title1": "Sensores",
+        "desc1": "Soporte para todos los sensores de Android: Giroscopio, brújula, barómetro, sensor de luz...",
+        "title2": "Características de cada Sensor",
+        "desc2": "Características de cada uno de los sensores que posee tu móvil.",
+        "title3": "Tiempo Real",
+        "desc3": "Información en tiempo real de los datos que obtienen los sensores.",
+        "title4": "Red WIFI",
+        "desc4": "Todos los datos de la red a la que estás conectado, así como intensidad y datos de tu smarthphone en esa red.",
+        "title5": "GPS",
+        "desc5": "Podrás ver tu posicion geográfica, la altura a la que te encuentras y el estado de los satélites.",
+        "title6": "Material Design",
+        "desc6": "Un interfaz limpio y sencillo siguiendo las pautas de Material Design.",
+        "title7": "Gráficas Intuitivas",
+        "desc7": "Se presentan completas gráficas que permiten ver los datos obtenidos por los sensores."
+    },
+    "how": {
+        "title": "Cómo funciona",
+        "desc": "Video explicativo del funcionamiento de Sensors Multitool.",
+        "qr": "Escanéa el código QR",
+        "download": "Descargar para Android"
+    },
+    "contact": {
+        "title": "Contacto",
+        "desc": "Contacte con nosotros para cualquier reporte o sugerencia.",
+        "email": "wered.software [arroba] gmail.com"
+    },
+    "help": {
+        "desc": "Ayúdanos a seguir creando y mejorando aplicaciones gratuitas ."
+    }
+}

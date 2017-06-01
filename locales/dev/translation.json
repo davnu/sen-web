@@ -1,0 +1,45 @@
+{
+    "header": {
+        "menu0": "HOME",
+        "menu1": "FEATURES",
+        "menu2": "HOW IT WORKS",
+        "menu3": "CONTACT"
+    },
+    "promo": {
+        "title": "Sensors Multitool: the ultimate tool for your Android Smartphone's sensors.",
+        "line1": "Information about all sensors supported by your phone",
+        "line2": "Support for show information of WIFI networks and GPS",
+        "line3": "All data accompanied by graphics in real time",
+        "line4": "Collects on a single application: altimeter, metal detector, barometer, compass, thermometer..."
+    },
+    "settings": {
+        "title1": "Sensors",
+        "desc1": "Support for all Android sensors: gyroscope, compass, barometer, light sensor...",
+        "title2": "Sensor Features",
+        "desc2": "Features of each of the sensors on your smartphone.",
+        "title3": "Real Time",
+        "desc3": "Real time information of the data obtained by Sensors.",
+        "title4": "WIFI",
+        "desc4": "All data from the network which you are connected, intensity, and information about your Smartphone in the network.",
+        "title5": "GPS",
+        "desc5": "You could see your geographical position, the altitude at which you are, and the status of the satellites.",
+        "title6": "Material Design",
+        "desc6": "A clean and simple interface following the guidelines of Material Design.",
+        "title7": "Intuitive Graphs",
+        "desc7": "Complete Graphs that let you view the data collected by the sensors."
+    },
+    "how": {
+        "title": "How it works",
+        "desc": "Explanatory video about Sensors Multitool working.",
+        "qr": "Scan the QR code",
+        "download": "Download for Android"
+    },
+    "contact": {
+        "title": "Contact",
+        "desc": "Contact us for any report or suggestion.",
+        "email": "wered.software [at] gmail.com"
+    },
+    "help": {
+        "desc": "Help us continue to make and improve free applications."
+    }
+}
